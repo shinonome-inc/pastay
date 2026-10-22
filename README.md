@@ -9,8 +9,11 @@
 
 ## インストール
 
-1. [Releases](https://github.com/shinonome-inc/pastay/releases/latest) から `Pastay.zip` をダウンロード
-2. 展開した `Pastay.app` を「アプリケーション」フォルダに移して開く
+1. [Pastay.dmg](https://github.com/shinonome-inc/pastay/releases/latest/download/Pastay.dmg) をダウンロード（[Releases](https://github.com/shinonome-inc/pastay/releases/latest) からも取れます）
+2. 開いた窓で、`Pastay` を `Applications` にドラッグする
+3. 「アプリケーション」フォルダから `Pastay` を開く
+
+アップデートは、アプリが自動で確かめます（設定の「アップデート」）。
 
 ## 問い合わせ
 
