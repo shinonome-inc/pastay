@@ -15,6 +15,8 @@ AI やチャットに貼る直前に、名前や電話番号、パスワード�
 
 [公式サイト](https://pastay.shinonome.com) ・ [リリース](https://github.com/shinonome-inc/pastay/releases) ・ [お問い合わせ](https://github.com/shinonome-inc/pastay/issues)
 
+[English](README.en.md) ・ **日本語**
+
 </div>
 
 ## できること
