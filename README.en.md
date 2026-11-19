@@ -20,13 +20,13 @@ Every check runs on your Mac.
 </div>
 
 > [!NOTE]
-> The app's interface is currently in Japanese only. Some checks, such as phone numbers and My Number, are built for Japanese formats. Email addresses, API keys, passwords, private keys and card numbers are detected regardless of language.
+> The app is available in English and Japanese, and you can switch between them at any time. Phone numbers and My Number are detected in Japanese formats; email addresses, API keys, passwords, private keys and card numbers are detected regardless of language.
 
 ## Features
 
 - **Alerts at the top of your screen** — When you copy or are about to paste something sensitive, an alert appears at the top of your screen, right by the camera
-- **Pause ⌘V and paste it redacted** — Pastay stops the paste and lets you decide what to do. Choose “Paste redacted” and sensitive parts are replaced with placeholders like `[電話番号1]` (“Phone 1”)
-- **Choose how you're warned** — Pick “Just let me know” or “Stop and ask”, after trying out how each one looks
+- **Pause ⌘V and paste it redacted** — Pastay stops the paste and lets you decide what to do. Choose “Paste Redacted” and sensitive parts are replaced with placeholders like `[Phone1]`
+- **Choose how you're warned** — Pick “Just Let Me Know” or “Stop and Ask”, after trying out how each one looks
 - **A clipboard history that stays safe** — Go back through up to 1,000 copied items with a shortcut. History is stored encrypted, and opening it asks for Touch ID
 - **Works in any app** — ChatGPT, Claude, Gemini and other AI tools, plus Slack, email and more
 
@@ -48,9 +48,9 @@ To improve the app, we send only usage statistics such as how often it's launche
 
 1. Download [Pastay.dmg](https://github.com/shinonome-inc/pastay/releases/latest/download/Pastay.dmg) (also available from [Releases](https://github.com/shinonome-inc/pastay/releases/latest))
 2. In the window that opens, drag `Pastay` into `Applications`
-3. Open `Pastay` from the Applications folder and follow the guide to pick an alert style
+3. Open `Pastay` from the Applications folder, choose your language, and follow the guide to pick an alert style
 
-The app checks for updates automatically (the “アップデート” (Updates) section of its settings).
+The app checks for updates automatically (the “Updates” tab in Settings).
 
 ## Contact
 

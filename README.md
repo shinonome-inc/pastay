@@ -40,12 +40,13 @@ AI やチャットに貼る直前に、名前や電話番号、パスワード�
 - macOS 14 以降
 - Apple シリコン（M1 以降）搭載の Mac
 - AI でのチェックには、Apple Intelligence を有効にするか、設定画面からチェック用のモデルをダウンロードします
+- 画面は日本語と英語に対応しています（最初の案内や設定で切り替えられます）
 
 ## インストール
 
 1. [Pastay.dmg](https://github.com/shinonome-inc/pastay/releases/latest/download/Pastay.dmg) をダウンロード（[Releases](https://github.com/shinonome-inc/pastay/releases/latest) からも取れます）
 2. 開いた窓で、`Pastay` を `Applications` にドラッグする
-3. 「アプリケーション」フォルダから `Pastay` を開き、案内に沿って警告の出し方を選ぶ
+3. 「アプリケーション」フォルダから `Pastay` を開き、言語（日本語）を選んで、案内に沿って警告の出し方を選ぶ
 
 アップデートは、アプリが自動で確かめます（設定の「アップデート」）。
 
