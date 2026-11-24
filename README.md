@@ -56,5 +56,5 @@ AI やチャットに貼る直前に、名前や電話番号、パスワード�
 [使用許諾契約](LICENSE.md) ・ [ライセンス表示](THIRD_PARTY_NOTICES.md)
 
 <div align="center">
-<sub>© SHINONOME, K.K.</sub>
+<sub>© Shinonome, Inc.</sub>
 </div>
